@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jamesyarn/static/css/main.bab0b925.chunk.css",
+    "main.js": "/jamesyarn/static/js/main.7181b1f9.chunk.js",
+    "main.js.map": "/jamesyarn/static/js/main.7181b1f9.chunk.js.map",
+    "runtime-main.js": "/jamesyarn/static/js/runtime-main.5c26268a.js",
+    "runtime-main.js.map": "/jamesyarn/static/js/runtime-main.5c26268a.js.map",
+    "static/js/2.35ac622b.chunk.js": "/jamesyarn/static/js/2.35ac622b.chunk.js",
+    "static/js/2.35ac622b.chunk.js.map": "/jamesyarn/static/js/2.35ac622b.chunk.js.map",
+    "static/js/3.a0def39d.chunk.js": "/jamesyarn/static/js/3.a0def39d.chunk.js",
+    "static/js/3.a0def39d.chunk.js.map": "/jamesyarn/static/js/3.a0def39d.chunk.js.map",
+    "index.html": "/jamesyarn/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/jamesyarn/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.35ac622b.chunk.js.LICENSE.txt": "/jamesyarn/static/js/2.35ac622b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c26268a.js",
+    "static/js/2.35ac622b.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.7181b1f9.chunk.js"
+  ]
+}
