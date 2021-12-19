@@ -91,7 +91,7 @@
       {
         "company": "ThinkPalm Technologies Pvt. Ltd",
         "title": "Web Application Developer",
-        "url": "think.jpg",
+        "url": "Think.jpg",
         "years": "Jul 2016 - Nov 2018",
         "description": "Supported the migration of an existing application to React js/Nuxt.js. Developed a methodology to gradually transition legacy a jQuery application to React/Redux. Implemented payment UI and API integration for both depositing funds and withdrawals. Found and fixed various rendering performance issues in the app."
       }
