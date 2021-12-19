@@ -800,7 +800,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0762f9; }
+/* #contact a, #contact a:visited  { color: #0762f9; } */
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -1025,4 +1025,8 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .github-btn{
    background-color: #34495e !important;
+}
+
+.widget_contact .fa {
+   margin-right: 2rem;
 }

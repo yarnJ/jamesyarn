@@ -1,13 +1,16 @@
 {
   "main": {
     "name":"I am James",
-    "description":"I am a web development engineer and I Come up with the agile approach and encourage the great pasture.",
+    "description":"Wellcome to my Website.",
     "image":"profilepic.jpg",
-    "bio":"A software developer with great experiences, always prioritize inovation and trustworthy.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"A senior software developer with great experiences, always prioritize inovation and trustworthy and come up with the agile approach. I'm passionate in this industry and I alway take responsibility for my own on going professional development wihch I believe will help my customer's business stay at the forefrontend of this position with my qualifications, experiences and creativity.",
+    "contactmessage":"You can touch on me easily through.",
     "email": "yarnj33@gmail.com",
-    "phone": "+12137698518",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email_path": "gmail.png",
+    "phone": "(470) 287-7057",
+    "phone_path": "call.jpg",
+    "github":"https://github.com/yarnJ",
+    "github_path": "github.png",
     "project":"https://rutube.ru",
     "address":{
       "street":"Bayfield St",
@@ -17,10 +20,11 @@
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"https://www.linkedin.com/in/james-yarn-308780227/",
+    "linkedin_path": "linkedin.png",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -30,18 +34,18 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "url":"https://youtube.com",
+        "className":"fa fa-youtube"
       }
     ]
   },
@@ -57,74 +61,61 @@
     ],
     "work":[
       {
-        "company":"EBD",
+        "company":"Enterprise Business Development & Information",
         "title":"Frontend Web Developer ",
+        "url": "ebdi.jpg",
         "years":"Mar 2016 - Present",
         "description":"Worked with various clients to build websites ranging from start-ups to enterprises. Oered consulting to improve development practice and processes. Tackled challenging problems and implemented solutions with the overall software quality in mind. Stack includes React, Redux, Firebase, Typescript, Flow and other common React libraries."
       },
       {
         "company":"The Medical Affairs Company (TMAC) Contract Full-time",
         "title":"Senior Frontend Developer",
+        "url": "TMAC.jpg",
         "years":"Jun 2016 - Dec 2021",
         "description":""
       },
       {
         "company": "Central Intelligence Agency",
         "title": "Full-stack Developer",
-        "years": "Apr 2019 - Sep 2019",
+        "url": "CIA.jpg",
+        "years": "Apr 2019 - Sep 2020",
         "description": "Multi-tenant application, allowing multiple organisations to register and get access to their own area. Design and build databases for the management of patients and the medical records in MonogoDB database. Developed website with Node JS Framework and React.js"
       },
       {
         "company": "Brainhub",
         "title": "Web Application Developer",
-        "years": "Feb 2019 - May 2019",
+        "url": "brain.jpg",
+        "years": "Jan 2018 - May 2019",
         "description": "My team consisted of front-end and back-end QA Engineers, Architects, UI/UX Designers, Product Owners, and Business Analysts"
       },
       {
         "company": "ThinkPalm Technologies Pvt. Ltd",
         "title": "Web Application Developer",
-        "years": "Jul 2018 - Nov 2018",
+        "url": "think.jpg",
+        "years": "Jul 2016 - Nov 2018",
         "description": "Supported the migration of an existing application to React js/Nuxt.js. Developed a methodology to gradually transition legacy a jQuery application to React/Redux. Implemented payment UI and API integration for both depositing funds and withdrawals. Found and fixed various rendering performance issues in the app."
-      },
-      {
-        "company": "Clurgo",
-        "title": "Web Developer",
-        "years": "Jan 2018 - Jul 2018",
-        "description": "I'v finished this project using React js for the frontend and Node js and My SQL for the backend and delivered on time with my team members."
-      },
-      {
-        "company": "Opus",
-        "title": "Assistant Team Manager",
-        "years": "Nov 2016 - Nov 2016",
-        "description": "As a assistant team manager, I led a push to improve team dynamic and drove the whole process of development."
-      },
-      {
-        "company": "Arsaga Partners, Inc.",
-        "title": "Web Developer",
-        "years": "Feb 2017 - Aug 2017",
-        "description": "Collaborated in the communication with clients, and worked more than 40 hrs per week. Re-building UI/UX with React js."
       }
     ],
     "skills":[
       {
         "name":"NodeJs",
-        "level":"90%"
+        "level":"98%"
       },
       {
         "name":"VueJs",
-        "level":"70%"
+        "level":"99%"
       },
       {
         "name":"ReactJs/Redux-Thunk/Saga",
-        "level":"90%"
+        "level":"100%"
       },
       {
-        "name":"Reusable Responsive",
+        "name":"Reusable and Professional responsive",
         "level":"100%"
       },
       {
         "name":"GatsByJs",
-        "level":"80%"
+        "level":"99%"
       },
       {
         "name":"Javascript",
@@ -132,7 +123,7 @@
       },
       {
         "name":"Representational State Transfer (REST)",
-        "level":"80%"
+        "level":"100%"
       }
     ]
   },
