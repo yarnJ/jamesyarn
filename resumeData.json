@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"I am James",
+    "name":"This is James",
     "description":"Wellcome to my Website.",
     "image":"profilepic.jpg",
     "bio":"A senior software developer with great experiences, always prioritize inovation and trustworthy and come up with the agile approach. I'm passionate in this industry and I alway take responsibility for my own on going professional development wihch I believe will help my customer's business stay at the forefrontend of this position with my qualifications, experiences and creativity.",
@@ -19,7 +19,7 @@
       "zip": "L4C 3Y2"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://www.linkedin.com/in/james-yarn-308780227/",
+    "resumedownload":"https://www.linkedin.com/in/yarnj33",
     "linkedin_path": "linkedin.png",
     "social":[
       {
