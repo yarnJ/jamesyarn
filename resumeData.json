@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"This is James",
+    "name":"I am James",
     "description":"Wellcome to my Website.",
     "image":"profilepic.jpg",
-    "bio":"A senior software developer with great experiences, always prioritize inovation and trustworthy and come up with the agile approach. I'm passionate about in this industry and I always take responsibility for my own on going professional development wihch I believe will help my customer's business stay at the forefront of this position with my qualifications, experiences and creativity.",
+    "bio":"A senior software developer with great experiences, always prioritize inovation and trustworthy and come up with the agile approach. I'm passionate in this industry and I alway take responsibility for my own on going professional development wihch I believe will help my customer's business stay at the forefrontend of this position with my qualifications, experiences and creativity.",
     "contactmessage":"You can touch on me easily through.",
     "email": "yarnj33@gmail.com",
     "email_path": "gmail.png",
@@ -14,12 +14,12 @@
     "project":"https://rutube.ru",
     "address":{
       "street":"Bayfield St",
-      "city":"Richmond Hill",
-      "state":"Ontario",
-      "zip": "L4C 3Y2"
+      "city":"Atlanta",
+      "state":"Georgia, United States",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://www.linkedin.com/in/yarnj33",
+    "resumedownload":"https://www.linkedin.com/in/james-yarn-308780227/",
     "linkedin_path": "linkedin.png",
     "social":[
       {
@@ -53,48 +53,41 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"Technical Colleges in Canada?",
-        "degree":"Computer Engineering",
-        "graduated":"May 2017",
-        "description":"My education at CCT encouraged grow my passions for web develop and programming. The course includes computer architecture, operating systems, procedural and process - oriented programming, programming microprocessors, programming architecture, client-server systems, visual programming tools, computer networks, organization of databases. I came up with the agile approach for my develop team and will carry the same dedication and focus into future commitments."
+        "school":"Atlanta Technical College",
+        "degree":"Bachelor's degree Computer Software Technology/Technician .B",
+        "graduated":"May 2013",
+        "description":"My education at ATC encouraged grow my passions for web develop and programming. The course includes computer architecture, operating systems, procedural and process - oriented programming, programming microprocessors, programming architecture, client-server systems, visual programming tools, computer networks, organization of databases. My educations background allowed me to thrive in this career and my trainings on this have made me at this forefront of this industry."
       }
     ],
     "work":[
       {
-        "company":"Enterprise Business Development & Information",
-        "title":"Frontend Web Developer ",
-        "url": "ebdi.jpg",
-        "years":"Mar 2016 - Present",
-        "description":"Worked with various clients to build websites ranging from start-ups to enterprises. Oered consulting to improve development practice and processes. Tackled challenging problems and implemented solutions with the overall software quality in mind. Stack includes React, Redux, Firebase, Typescript, Flow and other common React libraries."
-      },
-      {
-        "company":"The Medical Affairs Company (TMAC) Contract Full-time",
-        "title":"Senior Frontend Developer",
-        "url": "TMAC.jpg",
-        "years":"Jun 2016 - Dec 2021",
-        "description":""
-      },
-      {
-        "company": "Central Intelligence Agency",
-        "title": "Full-stack Developer",
-        "url": "CIA.jpg",
-        "years": "Apr 2019 - Sep 2020",
-        "description": "Multi-tenant application, allowing multiple organisations to register and get access to their own area. Design and build databases for the management of patients and the medical records in MonogoDB database. Developed website with Node JS Framework and React.js"
-      },
-      {
         "company": "Brainhub",
         "title": "Web Application Developer",
         "url": "brain.jpg",
-        "years": "Jan 2018 - May 2019",
+        "years": "Apr 2020 – Nov 2021",
         "description": "My team consisted of front-end and back-end QA Engineers, Architects, UI/UX Designers, Product Owners, and Business Analysts"
       },
       {
         "company": "ThinkPalm Technologies Pvt. Ltd",
         "title": "Web Application Developer",
-        "url": "Think.jpg",
-        "years": "Jul 2016 - Nov 2018",
+        "url": "think.jpg",
+        "years": "Dec 2017 – Feb 2020",
         "description": "Supported the migration of an existing application to React js/Nuxt.js. Developed a methodology to gradually transition legacy a jQuery application to React/Redux. Implemented payment UI and API integration for both depositing funds and withdrawals. Found and fixed various rendering performance issues in the app."
-      }
+      },
+      {
+        "company": "Central Intelligence Agency",
+        "title": "Full-stack Developer",
+        "url": "CIA.jpg",
+        "years": "May 2015 – Sep 2017",
+        "description": "Multi-tenant application, allowing multiple organisations to register and get access to their own area. Design and build databases for the management of patients and the medical records in MonogoDB database. Developed website with Node JS Framework and improved application's performance and speed with React trending technologies such as React hooks, HOCs, Redux and more."
+      },
+      {
+        "company":"Enterprise Business Development & Information",
+        "title":"Frontend Web Developer ",
+        "url": "ebdi.jpg",
+        "years":"Feb 2013 – Mar 2015",
+        "description":"Collaborated in the communication with clients, and worked more than 40 hrs per week. Re-building UI/UX with React js (Customized template and created new features on the Dashboard for Service Web Project). SQL Query Optimizing For generating reports (1 hour to 3seconds). Every versions of codebase had been manipulated by using docker and easily deployed to AWS EKS with autoscaling feature."
+      }      
     ],
     "skills":[
       {
@@ -114,15 +107,11 @@
         "level":"100%"
       },
       {
-        "name":"GatsByJs",
-        "level":"99%"
-      },
-      {
         "name":"Javascript",
         "level":"100%"
       },
       {
-        "name":"Representational State Transfer (REST)",
+        "name":"Serverless function (REST, AWS)",
         "level":"100%"
       }
     ]
